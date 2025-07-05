@@ -1,0 +1,21 @@
+Dear Hiring Team,
+
+I am writing to express my strong interest in the Robotics Software Engineer position at your company. With a solid background in robot control software development and ROS-based systems, I believe I can contribute significantly to your logistics robotics project.
+
+I will graduate with a Master’s degree in Robotics in September 2025, and I have over five years of hands-on experience working with ROS, C++, Linux/Ubuntu, and mobile robot software development.
+
+In previous projects, I have gained deep experience in integrating and fine-tuning modules such as SLAM (including Google Cartographer), localization, and motion planning algorithms like Timed Elastic Band and DWA into enterprise-level robots. These robots were deployed in postal factories, offices, restaurants.
+
+Beyond simply using existing tools, I also developed my own motion planning algorithm for mobile robots based on Model Predictive Control (MPC), enabling safe and efficient navigation in dynamic environments.
+
+These experiences have strengthened my ability to build scalable and production-ready robotic solutions that align well with your mission.
+
+In addition to my technical background, I am fluent in English and plan to move to Japan long-term. I am currently learning Japanese to better collaborate in international teams. I am truly excited by your company’s vision and would love to contribute my expertise in robot control, fleet management, and ROS system integration.
+
+Thank you very much for considering my application. I would welcome the opportunity to further discuss how I can support your team in building intelligent logistics robot solutions.
+
+Best regards,
+Nguyen Ngoc Huy
+Project portfolio: https://ngochuy2137.github.io/project_portfolio_huynn/
+Email: Huy.nguyenngoc2137@gmail.com
+Phone: +817085552137
